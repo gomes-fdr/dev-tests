@@ -1,0 +1,6 @@
+[submodule "Python/avidity"]
+	path = Python/avidity
+	url = git@github.com:gomes-fdr/avidity-test.git
+[submodule "Python/cwi"]
+	path = Python/cwi
+	url = git@github.com:gomes-fdr/cwi-test.git
