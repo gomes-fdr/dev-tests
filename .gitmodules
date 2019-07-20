@@ -4,3 +4,6 @@
 [submodule "Python/cwi"]
 	path = Python/cwi
 	url = git@github.com:gomes-fdr/cwi-test.git
+[submodule "Python/darmas"]
+	path = Python/darmas
+	url = git@github.com:gomes-fdr/clinica-facil.git
