@@ -10,3 +10,6 @@
 [submodule "Python/test-avidity"]
 	path = Python/test-avidity
 	url = https://github.com/gomes-fdr/test-avidity
+[submodule "Golang/ilhasoft"]
+	path = Golang/ilhasoft
+	url = https://github.com/gomes-fdr/ilhasoft
